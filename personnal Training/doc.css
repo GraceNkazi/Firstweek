@@ -1,0 +1,15 @@
+.container {
+    border: 5px solid #888;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.container p {
+    border: 5px solid #888;
+    padding: 10px;
+    font-size: 28px;
+    
+}

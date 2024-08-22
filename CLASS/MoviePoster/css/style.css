@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://th.bing.com/th/id/R.5be4c0fbb5da93a43ea55e4f243c10e5?rik=qqa6K3KKyVU3Mg&pid=ImgRaw&r=0);
+}
+
+.container { 
+    display: flex;
+    gap: 40px;
+    margin: 20px;
+}
+
+div {
+    height: 75px;
+    width: 75px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+
+}
+
+header {
+    background-image: url(https://p1.pxfuel.com/preview/189/20/995/film-film-roll-filmstrip-analog-royalty-free-thumbnail.jpg);
+    padding: 10px;
+}
+
+text {
+    padding-bottom: %;
+}

@@ -1,7 +1,6 @@
 section{
     display: flex;
     text-align: center;
-    align-items: center;
     justify-content: space-around;
     border-style: solid;
     background-color:rgba(118, 231, 62, 0.58);

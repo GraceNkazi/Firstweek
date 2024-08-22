@@ -1,0 +1,41 @@
+.container {
+    height: 110px;
+    border: 5px;
+    padding: 10px;
+    background-color: rgb(8, 138, 94);
+    align-items: center;
+}
+
+.nav {
+    border: 5px solid;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+.box ul li a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+.box a:hover {
+    background-color: azure;
+}
+
+.contacts {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+footer {
+    bottom: 2;
+    align-items: center;
+}

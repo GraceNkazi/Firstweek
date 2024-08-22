@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(246, 247, 246);
+}
+
+header {
+    background-image: url(https://wallpapercave.com/wp/wp2885522.jpg);
+    font-size: large;
+}
+
+    
+img {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+/*selecting a specific html element*/
+h3 {
+    color:solid black;
+}
+
+
+#footer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.summary {
+    text-align: center;
+}
